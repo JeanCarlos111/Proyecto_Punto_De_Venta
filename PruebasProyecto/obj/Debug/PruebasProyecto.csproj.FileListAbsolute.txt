@@ -1,0 +1,134 @@
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll.config
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.pdb
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\EntityFramework.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\BackEnd.pdb
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll.config
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csprojAssemblyReference.cache
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CopyComplete
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll.config
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll.config
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csprojAssemblyReference.cache
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CopyComplete
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csprojAssemblyReference.cache
+C:\Users\JeanCarlos\Desktop\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.pdb
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll.config
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.pdb
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\BackEnd.pdb
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll.config
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CopyComplete
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll.config
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll.config
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csprojAssemblyReference.cache
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CopyComplete
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll.config
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll.config
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csprojAssemblyReference.cache
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CopyComplete
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.pdb
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll.config
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\PruebasProyecto.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\BackEnd.dll.config
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csprojAssemblyReference.cache
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.csproj.CopyComplete
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\PruebasProyecto\obj\Debug\PruebasProyecto.pdb

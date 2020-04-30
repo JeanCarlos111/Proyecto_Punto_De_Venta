@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProyectoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Bitacora">
+    <Key>
+      <PropertyRef Name="id_bitacora" />
+    </Key>
+    <Property Name="id_bitacora" Type="Int32" Nullable="false" />
+    <Property Name="transaccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="fecha" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Categoria">
+    <Key>
+      <PropertyRef Name="id_categoria" />
+    </Key>
+    <Property Name="id_categoria" Type="Int32" Nullable="false" />
+    <Property Name="nombre_categoria" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Producto" Relationship="Self.FK_Producto_Categoria" FromRole="Categoria" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Factura">
+    <Key>
+      <PropertyRef Name="id_factura" />
+    </Key>
+    <Property Name="id_factura" Type="Int32" Nullable="false" />
+    <Property Name="id_usuario" Type="Int32" Nullable="false" />
+    <Property Name="fecha_factura" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_producto" Type="Int32" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <Property Name="total" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Producto" Relationship="Self.FK_Factura_Producto" FromRole="Factura" ToRole="Producto" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Factura_Usuario" FromRole="Factura" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Privilegios">
+    <Key>
+      <PropertyRef Name="id_privilegio" />
+    </Key>
+    <Property Name="id_privilegio" Type="Int32" Nullable="false" />
+    <Property Name="nombre_privilegio" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Rol" Relationship="Self.FK_Rol_Privilegios" FromRole="Privilegios" ToRole="Rol" />
+  </EntityType>
+  <EntityType Name="ProdProvedor">
+    <Key>
+      <PropertyRef Name="id_prodprovedor" />
+    </Key>
+    <Property Name="id_prodprovedor" Type="Int32" Nullable="false" />
+    <Property Name="descripcion_prod" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_provedor" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Provedor" Relationship="Self.FK_ProdProvedor_Provedor" FromRole="ProdProvedor" ToRole="Provedor" />
+    <NavigationProperty Name="Producto" Relationship="Self.FK_Producto_ProdProvedor" FromRole="ProdProvedor" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="id_producto" />
+    </Key>
+    <Property Name="id_producto" Type="Int32" Nullable="false" />
+    <Property Name="nombre_producto" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_categoria" Type="Int32" Nullable="false" />
+    <Property Name="precio_producto" Type="Int32" Nullable="false" />
+    <Property Name="id_prodprovedor" Type="Int32" Nullable="false" />
+    <Property Name="costo_producto" Type="Int32" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Categoria" Relationship="Self.FK_Producto_Categoria" FromRole="Producto" ToRole="Categoria" />
+    <NavigationProperty Name="Factura" Relationship="Self.FK_Factura_Producto" FromRole="Producto" ToRole="Factura" />
+    <NavigationProperty Name="ProdProvedor" Relationship="Self.FK_Producto_ProdProvedor" FromRole="Producto" ToRole="ProdProvedor" />
+  </EntityType>
+  <EntityType Name="Provedor">
+    <Key>
+      <PropertyRef Name="id_provedor" />
+    </Key>
+    <Property Name="id_provedor" Type="Int32" Nullable="false" />
+    <Property Name="nombre_provedor" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="direccion_provedor" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="correo_provedor" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tipo_provedor" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="ProdProvedor" Relationship="Self.FK_ProdProvedor_Provedor" FromRole="Provedor" ToRole="ProdProvedor" />
+  </EntityType>
+  <EntityType Name="Rol">
+    <Key>
+      <PropertyRef Name="id_rol" />
+    </Key>
+    <Property Name="id_rol" Type="Int32" Nullable="false" />
+    <Property Name="nombre_rol" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tipo_privilegio" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Privilegios" Relationship="Self.FK_Rol_Privilegios" FromRole="Rol" ToRole="Privilegios" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Usuario_Rol" FromRole="Rol" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="id_usuario" />
+    </Key>
+    <Property Name="id_usuario" Type="Int32" Nullable="false" />
+    <Property Name="nombre_usuario" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="contrasena" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_rol" Type="Int32" Nullable="false" />
+    <Property Name="correo_usuario" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono_usuario" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="direccion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Factura" Relationship="Self.FK_Factura_Usuario" FromRole="Usuario" ToRole="Factura" />
+    <NavigationProperty Name="Rol" Relationship="Self.FK_Usuario_Rol" FromRole="Usuario" ToRole="Rol" />
+  </EntityType>
+  <Association Name="FK_Producto_Categoria">
+    <End Role="Categoria" Type="Self.Categoria" Multiplicity="1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categoria">
+        <PropertyRef Name="id_categoria" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="id_categoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Factura_Producto">
+    <End Role="Producto" Type="Self.Producto" Multiplicity="1" />
+    <End Role="Factura" Type="Self.Factura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="id_producto" />
+      </Principal>
+      <Dependent Role="Factura">
+        <PropertyRef Name="id_producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Factura_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Factura" Type="Self.Factura" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="id_usuario" />
+      </Principal>
+      <Dependent Role="Factura">
+        <PropertyRef Name="id_usuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Rol_Privilegios">
+    <End Role="Privilegios" Type="Self.Privilegios" Multiplicity="1" />
+    <End Role="Rol" Type="Self.Rol" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Privilegios">
+        <PropertyRef Name="id_privilegio" />
+      </Principal>
+      <Dependent Role="Rol">
+        <PropertyRef Name="tipo_privilegio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProdProvedor_Provedor">
+    <End Role="Provedor" Type="Self.Provedor" Multiplicity="1" />
+    <End Role="ProdProvedor" Type="Self.ProdProvedor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Provedor">
+        <PropertyRef Name="id_provedor" />
+      </Principal>
+      <Dependent Role="ProdProvedor">
+        <PropertyRef Name="id_provedor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Producto_ProdProvedor">
+    <End Role="ProdProvedor" Type="Self.ProdProvedor" Multiplicity="1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProdProvedor">
+        <PropertyRef Name="id_prodprovedor" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="id_prodprovedor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Rol">
+    <End Role="Rol" Type="Self.Rol" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rol">
+        <PropertyRef Name="id_rol" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="id_rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BDContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Bitacora" EntityType="Self.Bitacora" />
+    <EntitySet Name="Categoria" EntityType="Self.Categoria" />
+    <EntitySet Name="Factura" EntityType="Self.Factura" />
+    <EntitySet Name="Privilegios" EntityType="Self.Privilegios" />
+    <EntitySet Name="ProdProvedor" EntityType="Self.ProdProvedor" />
+    <EntitySet Name="Producto" EntityType="Self.Producto" />
+    <EntitySet Name="Provedor" EntityType="Self.Provedor" />
+    <EntitySet Name="Rol" EntityType="Self.Rol" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" />
+    <AssociationSet Name="FK_Producto_Categoria" Association="Self.FK_Producto_Categoria">
+      <End Role="Categoria" EntitySet="Categoria" />
+      <End Role="Producto" EntitySet="Producto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Factura_Producto" Association="Self.FK_Factura_Producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="Factura" EntitySet="Factura" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Factura_Usuario" Association="Self.FK_Factura_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Factura" EntitySet="Factura" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Rol_Privilegios" Association="Self.FK_Rol_Privilegios">
+      <End Role="Privilegios" EntitySet="Privilegios" />
+      <End Role="Rol" EntitySet="Rol" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProdProvedor_Provedor" Association="Self.FK_ProdProvedor_Provedor">
+      <End Role="Provedor" EntitySet="Provedor" />
+      <End Role="ProdProvedor" EntitySet="ProdProvedor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Producto_ProdProvedor" Association="Self.FK_Producto_ProdProvedor">
+      <End Role="ProdProvedor" EntitySet="ProdProvedor" />
+      <End Role="Producto" EntitySet="Producto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Rol" Association="Self.FK_Usuario_Rol">
+      <End Role="Rol" EntitySet="Rol" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+    <FunctionImport Name="so_iniciar_Sesion" ReturnType="Collection(ProyectoModel.so_iniciar_Sesion_Result)">
+      <Parameter Name="usuario" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_mostrar_Productos" EntitySet="Producto" ReturnType="Collection(ProyectoModel.Producto)" />
+    <FunctionImport Name="sp_mostrar_Productos1" EntitySet="Producto" ReturnType="Collection(ProyectoModel.Producto)" />
+    <FunctionImport Name="so_iniciar_Sesion1" EntitySet="Usuario" ReturnType="Collection(ProyectoModel.Usuario)">
+      <Parameter Name="usuario" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="so_iniciar_Sesion_Result">
+    <Property Type="Int32" Name="id_usuario" Nullable="false" />
+    <Property Type="String" Name="nombre_usuario" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="contrasena" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="id_rol" Nullable="false" />
+    <Property Type="String" Name="correo_usuario" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="telefono_usuario" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="direccion" Nullable="false" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="sp_mostrar_Productos_Result">
+    <Property Type="Int32" Name="id_producto" Nullable="false" />
+    <Property Type="String" Name="nombre_producto" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="id_categoria" Nullable="false" />
+    <Property Type="Int32" Name="precio_producto" Nullable="false" />
+    <Property Type="Int32" Name="id_prodprovedor" Nullable="false" />
+    <Property Type="Int32" Name="costo_producto" Nullable="false" />
+    <Property Type="Int32" Name="cantidad" Nullable="false" />
+  </ComplexType>
+</Schema>

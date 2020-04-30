@@ -1,0 +1,145 @@
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V1\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V5\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Kevin\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\mafe_\Documents\Universidad\Programacion Avanzada\Proyecto\Proyecto V6\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\danic\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Sebastian\Desktop\Proyec actu\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\andre\Desktop\ProyectoProgra\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\bin\Debug\BackEnd.dll.config
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\bin\Debug\EntityFramework.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\bin\Debug\EntityFramework.xml
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\JeanCarlos\Desktop\Proyecto (3)\Proyecto\BackEnd\obj\Debug\BackEnd.pdb
